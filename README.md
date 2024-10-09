@@ -16,7 +16,18 @@ A beautiful and simple weather app built using Flutter. This app provides real-t
 
 ## Screenshots 📸
 
-Add your app screenshots here to give users a visual overview.
+<div>
+  <img src="https://github.com/AbdollahRasti/flutter-weather-app/blob/main/screenShots/1.png" width="45%" style="display: inline-block; margin-right: 5%;" />
+  
+  <img src="https://github.com/AbdollahRasti/flutter-weather-app/blob/main/screenShots/2.png" width="45%" style="display: inline-block;" />
+</div>
+
+<div>
+  <img src="https://github.com/AbdollahRasti/flutter-weather-app/blob/main/screenShots/3.png" width="45%" style="display: inline-block; margin-right: 5%;" />
+  
+  <img src="https://github.com/AbdollahRasti/flutter-weather-app/blob/main/screenShots/4.png" width="45%" style="display: inline-block;" />
+</div>
+
 
 ## Getting Started 🚀
 
